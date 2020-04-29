@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+  <Company>
+    <Name>A. Menarini Farmaceutica Internazionale SRL</Name>
+    <Address>Menarini House, Mercury Park, Wycombe Lane, Wooburn Green, Buckinghamshire, HP10 0HH</Address>
+    <Fax>+44 (0) 1628 856402</Fax>
+    <Medical_Information_e-mail>menarini@medinformation.co.uk</Medical_Information_e-mail>
+    <Telephone>0800 085 8678</Telephone>
+    <Medical_Information_Direct_Line>0800 085 8678</Medical_Information_Direct_Line>
+    <Out_of_Hours_Telephone>0800 085 8678</Out_of_Hours_Telephone>
+  </Company>
+  <Company>
+    <Name>Accord Healthcare Limited</Name>
+    <Address>Sage House, 319 Pinner Road, North Harrow, Middlesex, HA1 4HF, UK</Address>
+    <Telephone>+44 (0)208 8631 427</Telephone>
+    <Medical_Information_Direct_Line>+44 (0)1271 385257</Medical_Information_Direct_Line>
+    <Customer_Care_direct_line>0800 373 573</Customer_Care_direct_line>
+    <WWW>http://www.accord-healthcare.eu</WWW>
+    <Fax>+44 (0)208 861 4867</Fax>
+    <Medical_Information_e-mail>medinfo@accord-healthcare.com</Medical_Information_e-mail>
+    <Medical_Information_Fax>+44 (0)208 861 4867</Medical_Information_Fax>
+  </Company>
+  <Company>
+    <Name>Almirall Limited</Name>
+    <Address>Almirall Limited, Harman House, 1 George Street, Uxbridge, Middlesex, UB8 1QQ, UK</Address>
+    <Telephone>+44 (0) 207 160 2500</Telephone>
+    <Medical_Information_e-mail>Almirall@EU.ProPharmaGroup.com</Medical_Information_e-mail>
+    <WWW>http://www.almirall.co.uk</WWW>
+    <Medical_Information_Direct_Line>0800 0087399</Medical_Information_Direct_Line>
+    <Stock_Availability>0800 0087399</Stock_Availability>
+  </Company>
+</Companies>
